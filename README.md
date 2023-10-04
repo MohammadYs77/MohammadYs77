@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammad Yousefi.
-- 👀 I’m interested in Data Science, specificly in Mahicne and Deep Learning and have worked on some projects related to these fields.
-- 🌱 I’m currently getting my Masters degree in Computer Systems Architecture in Iran University of Science and Technology.
+- 👀 interested in Data Science, specificly in Machine learning and Deep Learning and have worked on some projects related to these fields.
+- 🌱 currently getting my Masters degree in the field of Artificial Intelligence from Bahcesehir University.
 
 <!---
 MohammadYs77/MohammadYs77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
