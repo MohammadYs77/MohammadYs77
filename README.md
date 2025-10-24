@@ -24,28 +24,28 @@
 
 ---
 
-### 🧾 Selected Publications  
+### 🧾 Publications  
 
 📄 **Implementation of a Multi-modal Deep Learning Model for Information Extraction and Prediction Utilizing Bridge Benchmark Sensor Data**  
 *Yousefi, M.*, Bahçeşehir University, 2024.  
 → Combines CNN, LSTM, and Self-Attention networks to predict vehicle characteristics (axle count, weight, velocity) using synchronized strain sensor and image data.  
 
-📄 **Deep Neural Network-based Human Detection Using Ultra-Wideband Radar**  
-*Yousefi, M.*, et al. *IEEE IHTC 2025 (Italy)*  
+📄 **Neural Network-Based Human Detection Using Raw UWB Radar Data**  
+Berjin, E, *Yousefi, M.*, et al. *IEEE Microwave Theory and Technology in Wireless Communications (MTTW) 2024 (Latvia)*. DOI: [101109/MTTW64344.2024.10742175](https://www.doi.org/10.1109/MTTW64344.2024.10742175)
 → Utilized CNN architectures on raw radar data for human/non-human classification, improving robustness across distances and angles.  
 
-📄 **AI-based Breathing Signal Analysis for Human Presence Detection**  
-*Yousefi, M.*, et al. 2023  
-→ Introduced AI models capable of identifying human presence via breathing-pattern micro-movements in complex environments.  
+📄 **Improving the Robustness of CNN-Based Human Detection in Cluttered Settings Using Multiple Raw UWB Radar Datasets**  
+*Yousefi, M.*, Berjin, E, et al. *IEEE  International Humanitarian Technology Conference (IHTC) 2025 (Italy)*. DOI: [10.1109/IHTC61819.2024.10855134](https://doi.org/10.1109/IHTC61819.2024.10855134)
+→ Introduced CNN models capable of identifying human presence via breathing-pattern micro-movements in complex environments via transfer learning on multiple datasets.  
 
-📈 *Ongoing work includes*: reinforcement learning for low-data adaptation and energy-aware AI for environmental sustainability.  
+📈 *Ongoing work includes*: Lightweight Edge Model for Real-Time Breathing-based Human Presence Detection with UWB Radar.  
 
 ---
 
 ### 🧮 Research Impact  
 <p align="center">
-  <img src="https://img.shields.io/badge/Citations-20%2B-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Conference%20Papers-3-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Citations-3%2B-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Conference%20Papers-2-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Research%20Focus-AI%20for%20Sensing%20and%20Infrastructure-green?style=for-the-badge" />
 </p>
 
